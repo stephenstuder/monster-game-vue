@@ -45,7 +45,6 @@ new Vue({
         isPlayer: true,
         text: "Player heals for 10",
       });
-
       this.monsterAttacks();
     },
     giveUp() {
