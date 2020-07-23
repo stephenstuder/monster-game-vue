@@ -36,7 +36,6 @@ new Vue({
       if (this.checkWin()) {
         return;
       }
-
       this.monsterAttacks();
     },
     heal() {
