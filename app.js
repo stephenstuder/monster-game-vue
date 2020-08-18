@@ -1,3 +1,4 @@
+//Todo, convert this to a component based project
 new Vue({
   el: '#app',
   data: {
